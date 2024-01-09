@@ -1,14 +1,6 @@
 module.exports = {
   rules: {
     "no-console": "off",
-    "import/no-extraneous-dependencies": [
-      "error",
-      {
-        devDependencies: true,
-        optionalDependencies: false,
-        peerDependencies: false,
-        packageDir: "__dirname",
-      },
-    ],
+    "import/no-extraneous-dependencies": "off",
   },
 };
