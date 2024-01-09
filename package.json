@@ -1,0 +1,20 @@
+{
+  "name": "@perugi/eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perugi/eslint-config.git"
+  },
+  "keywords": ["eslint", "eslintconfig"],
+  "author": "Dominik Perusko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perugi/eslint-config/issues"
+  },
+  "homepage": "https://github.com/perugi/eslint-config#readme"
+}
