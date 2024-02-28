@@ -2,7 +2,6 @@ module.exports = {
   rules: {
     "no-console": "off",
     "import/no-extraneous-dependencies": "off",
-    "no-param-reassign": "off",
     "import/extensions": ["error", "never", { mjs: "always" }],
     "no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
     "no-underscore-dangle": [
